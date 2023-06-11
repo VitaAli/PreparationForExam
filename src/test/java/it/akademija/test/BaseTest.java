@@ -17,8 +17,8 @@ public class BaseTest {
         driver.get("https://op.akademijait.vtmc.lt/");
     }
 
-    @AfterEach
-    public void closeDriver() {
-        driver.quit();
-    }
+//    @AfterEach
+//    public void closeDriver() {
+//        driver.quit();
+//    }
 }

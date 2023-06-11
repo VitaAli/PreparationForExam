@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="254ba80e-8950-45cd-8afa-fee6960a5df7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/pom/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/pom/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/pom/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/pom/SuccessPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/utils/GenerateDataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/it/akademija/test/RegistrationPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/akademija/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/it/akademija/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/it/akademija/test/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +49,46 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled">
+    <configuration name="RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreparationForExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.akademija.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.akademija.test" />
+      <option name="MAIN_CLASS_NAME" value="it.akademija.test.RegistrationPageTest" />
+      <option name="METHOD_NAME" value="accountNotRegisteredIfFirstNameNotFilled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationPageTest.accountRegisteredSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreparationForExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it.akademija.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="it.akademija.test" />
+      <option name="MAIN_CLASS_NAME" value="it.akademija.test.RegistrationPageTest" />
+      <option name="METHOD_NAME" value="accountRegisteredSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled" />
+        <item itemvalue="JUnit.RegistrationPageTest.accountRegisteredSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686493562443</updated>
-      <workItem from="1686493564270" duration="2328000" />
+      <workItem from="1686493564270" duration="6944000" />
     </task>
     <servers />
   </component>
