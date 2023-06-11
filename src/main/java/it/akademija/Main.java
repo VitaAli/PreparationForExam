@@ -1,4 +1,6 @@
-package it.akademija;public class Main {
+package it.akademija;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
