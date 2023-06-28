@@ -34,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled">
     <configuration name="RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PreparationForExam" />
@@ -93,6 +93,7 @@
       <workItem from="1686493564270" duration="7232000" />
       <workItem from="1687940287653" duration="335000" />
       <workItem from="1687941347998" duration="944000" />
+      <workItem from="1687942399602" duration="302000" />
     </task>
     <servers />
   </component>
