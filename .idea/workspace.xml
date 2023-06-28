@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="254ba80e-8950-45cd-8afa-fee6960a5df7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/pom/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/pom/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/pom/SuccessPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/it/akademija/utils/GenerateDataUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/it/akademija/test/RegistrationPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/it/akademija/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/it/akademija/test/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled">
     <configuration name="RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PreparationForExam" />
@@ -97,7 +91,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686493562443</updated>
-      <workItem from="1686493564270" duration="6944000" />
+      <workItem from="1686493564270" duration="7232000" />
+      <workItem from="1687940287653" duration="335000" />
     </task>
     <servers />
   </component>
