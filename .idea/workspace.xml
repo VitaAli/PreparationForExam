@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="254ba80e-8950-45cd-8afa-fee6960a5df7" name="Changes" comment="" />
+    <list default="true" id="254ba80e-8950-45cd-8afa-fee6960a5df7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/it/akademija/test/SuitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled">
     <configuration name="RegistrationPageTest.accountNotRegisteredIfFirstNameNotFilled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PreparationForExam" />
@@ -91,6 +96,7 @@
       <updated>1686493562443</updated>
       <workItem from="1686493564270" duration="7232000" />
       <workItem from="1687940287653" duration="335000" />
+      <workItem from="1687941347998" duration="683000" />
     </task>
     <servers />
   </component>
